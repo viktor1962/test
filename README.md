@@ -1,0 +1,2 @@
+# test
+install test archlinux
